@@ -1,0 +1,7 @@
+{
+  "name": "makepizza",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
